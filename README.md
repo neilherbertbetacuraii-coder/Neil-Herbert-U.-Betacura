@@ -29,3 +29,9 @@ BS Information Technology Student
 </a>
 
 </p>
+
+<h2>💻 Tech Stack</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,php,mysql,git,github,vscode,arduino,linux&perline=7"/>
+</p>
