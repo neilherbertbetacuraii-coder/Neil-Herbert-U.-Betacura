@@ -30,7 +30,7 @@ BS Information Technology Student
 
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Neil%20Herbert%20U.%20Betacura&theme=gruvbox-duo&border_radius=4.2" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 <h2>💻 Tech Stack</h2>
 
