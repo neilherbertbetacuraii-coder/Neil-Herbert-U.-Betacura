@@ -1,6 +1,14 @@
-# Hi 👋 I'm Neil Herbert U. Betacura
+<p align="center">
+    <img src="banner.png" width="100%">
+</p>
 
-## BS Information Technology Student
+<h1 align="center">
+Hi 👋 I'm Neil Herbert U. Betacura
+</h1>
+
+<h3 align="center">
+BS Information Technology Student
+</h3>
 
 💻 Full Stack Developer
 
