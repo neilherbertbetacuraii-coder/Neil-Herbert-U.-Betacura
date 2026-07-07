@@ -49,4 +49,41 @@ BS Information Technology Student
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Neil+Herbert+U.+Betacura;BSIT+4th+Year+Student;Full+Stack+Developer;Arduino+%26+IoT+Developer;Building+PharmaVend;Future+Cloud+Engineer;Future+Cybersecurity+Professional"/>
 </p>
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=algolia&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight)
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|----------|-------------|------|
+| 💊 PharmaVend | Smart Self-Service Medicine Vending Machine | Python • Arduino • MySQL |
+| 🎓 Student Information System | School Management Platform | PHP • MySQL |
+| 🛒 Inventory & POS | Sari-Sari Store POS | Python |
+| 🌐 Portfolio Website | Personal Portfolio | HTML • CSS • JavaScript |
+
+## 📜 Current & Future Certifications
+
+☁️ AWS Certified Cloud Practitioner (In Progress)
+
+🌐 Cisco CCNA (Planned)
+
+🔐 CompTIA Security+ (Planned)
+
+☁️ AWS Solutions Architect Associate (Future)
+
+🛡️ CISSP (Long-Term Goal)
+
+📊 PMP (Career Goal)
+
+![](https://komarev.com/ghpvc/?username=YOURUSERNAME&style=for-the-badge&color=0e75b6)
+
+> "Code. Innovate. Impact."
+
+⭐ If you like my projects, don't forget to leave a star!
