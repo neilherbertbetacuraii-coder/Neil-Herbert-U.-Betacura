@@ -44,3 +44,7 @@ BS Information Technology Student
 - 🌐 Web Application Developer
 - 📚 Currently Learning Cloud Computing & Cybersecurity
 - 🚀 Building PharmaVend Smart Medicine Vending Machine
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Neil+Herbert+U.+Betacura;BSIT+4th+Year+Student;Full+Stack+Developer;Arduino+%26+IoT+Developer;Building+PharmaVend;Future+Cloud+Engineer;Future+Cybersecurity+Professional"/>
+</p>
