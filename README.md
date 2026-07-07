@@ -49,14 +49,23 @@ BS Information Technology Student
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Neil+Herbert+U.+Betacura;BSIT+4th+Year+Student;Full+Stack+Developer;Arduino+%26+IoT+Developer;Building+PharmaVend;Future+Cloud+Engineer;Future+Cybersecurity+Professional"/>
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight)
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake-dark.svg">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NeilBetacura&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=NeilBetacura&theme=tokyonight"/>
+</p>
+
+<p align="center">
+
+<a href="https://github.com/NeilBetacura/PharmaVend">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NeilBetacura&repo=PharmaVend&theme=tokyonight"/>
+
+</a>
+
 </p>
 
 ## 🚀 Featured Projects
