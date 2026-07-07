@@ -30,7 +30,9 @@ BS Information Technology Student
 
 </p>
 
+<p allign="center">
 <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+</p>
 
 <h2>💻 Tech Stack</h2>
 
