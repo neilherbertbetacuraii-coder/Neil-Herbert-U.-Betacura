@@ -35,3 +35,12 @@ BS Information Technology Student
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,php,mysql,git,github,vscode,arduino,linux,aws,docker,figma&perline=16" />
 </p>
+
+## 🚀 About Me
+
+- 🎓 4th Year BS Information Technology Student
+- 💻 Full Stack Developer
+- 🤖 Arduino & IoT Enthusiast
+- 🌐 Web Application Developer
+- 📚 Currently Learning Cloud Computing & Cybersecurity
+- 🚀 Building PharmaVend Smart Medicine Vending Machine
